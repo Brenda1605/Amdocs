@@ -1,4 +1,4 @@
-# Proyecto de Amdocs
+# Proyecto Amdocs ⌨ 
 **Dentro de este repositorio se estará guardando todo lo que se esté trabajando para el desarrollo del proyecto**
 <br>
 La página web de Amdocs Feedback es una plataforma que permite a todos los empleados internos de Amdocs llevar a cabo una retroalimentación a diferentes áreas dentro de la compañía, algunos tipos de "feedback" que se pueden llevar a cabo son:
